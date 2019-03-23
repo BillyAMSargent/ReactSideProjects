@@ -1,1 +1,2 @@
 # ReactSideProjects
+This is the area I will store my React side projects/tinkerings. The code you see in here won't be perfect as I will be uploading code as I learn it, meaning initial projects may not have the perfect practices in place. These projects will each serve a simple purpose, and are primarily intended to improve my skills with React. I hope you enjoy the code!
