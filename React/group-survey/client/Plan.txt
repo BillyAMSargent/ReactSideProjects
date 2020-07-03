@@ -1,0 +1,13 @@
+What is needed
+Create User Page
+    Username/Password
+Login Page
+    Login with Group Code, Username, Password
+Group Creation Page
+    Create a group
+    Add usernames to group
+Question Creation Page
+    If user has valid role then allow them to see page
+Question Answer Page
+    Default to answer page if user has answered
+Results Page
