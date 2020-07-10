@@ -1,0 +1,8 @@
+#!/bin/sh
+ssh root@178.128.164.125<<EOF
+   cd /var/www/bsprojects.co.uk/html/
+   git pull origin master
+   npm install --production
+   pm2 restart all
+   exit
+EOF
