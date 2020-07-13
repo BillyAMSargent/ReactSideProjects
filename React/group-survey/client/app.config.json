@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "react-client-1",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
