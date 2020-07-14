@@ -3,7 +3,7 @@
         {
             "name": "react-client-1",
             "script": "npm",
-            "args" : "start"
+            "args": "start"
         }
     ]
 }
