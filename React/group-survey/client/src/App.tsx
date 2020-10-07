@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload test BIG OOF.
+          Edit <code>src/App.tsx</code> and save to reload test BIG OOF test response time.
         </p>
         <a
           className="App-link"
