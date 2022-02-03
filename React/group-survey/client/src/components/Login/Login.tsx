@@ -22,7 +22,7 @@ function Login() {
 
   return (
       <div className='login-element'>
-        <h1>BSProjects</h1>
+        <h1>BSProjects - V0.1</h1>
         <div className="login-inputs">
           <div className="username-input">
             <Input type="text" label="Username" placeholder="Enter your username" />
