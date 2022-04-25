@@ -5,11 +5,10 @@ import Input from '../Shared/TextInput/TextInput';
 function Login() {
   const [isAuth, setAuth] = useState(false);
   const dummyLoginService = new LoginService();
-     
+
   const handleButtonClick = () => {
     dummyLoginService.SignIn().then(() => {
       setAuth(true);
-      console.log("Authentication complete!");
     });
   }
 
@@ -23,7 +22,9 @@ function Login() {
   return (
       <div className='login-element'>
         <h1>BSProjects - V0.1</h1>
-        <div className="login-inputs">
+
+        <h3>Go to sleep Flo x</h3>
+        {/* <div className="login-inputs">
           <div className="username-input">
             <Input type="text" label="Username" placeholder="Enter your username" />
           </div>
@@ -34,7 +35,7 @@ function Login() {
           <input type="button" value="Login" onClick={handleButtonClick}/>
 
           {authMessage}
-        </div>
+        </div> */}
       </div>
   );
 }
